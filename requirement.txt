@@ -1,8 +1,6 @@
-langchain==0.0.284
+langchain
 python-dotenv==1.0.0
-streamlit==1.22.0
-tiktoken==0.4.0
-faiss-cpu==1.7.4
+streamlit=
 protobuf~=3.19.0
 langchain_experimental
 mysql-connector-python
@@ -10,3 +8,7 @@ pymysql
 sentence-transformers
 chromadb
 dotenv-python
+langchain_experimental
+langchain_google_genai
+pymysql
+google-generativeai
