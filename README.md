@@ -42,6 +42,8 @@ This project introduces an interactive database query assistant designed to faci
 
 After starting the application, navigate to the provided URL (usually `http://localhost:8501`) in your web browser. You'll be greeted with a simple interface where you can enter your database URI and your question about the inventory.
 
+https://github.com/shabeeth2/QueryusingText/blob/main/sample-Quert-with-HL.mp4
+
 ### Database Connection
 
 Enter your database URI in the provided field. This URI should point to your retail inventory database.
