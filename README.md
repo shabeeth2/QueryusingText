@@ -24,6 +24,9 @@ This project introduces an interactive database query assistant designed to faci
    ```
    git clone https://your-repository-url.git
    cd RetailProject
+
+
+
    ```
 
 2. Install the required Python packages:
@@ -42,7 +45,7 @@ This project introduces an interactive database query assistant designed to faci
 
 After starting the application, navigate to the provided URL (usually `http://localhost:8501`) in your web browser. You'll be greeted with a simple interface where you can enter your database URI and your question about the inventory.
 
-https://github.com/shabeeth2/QueryusingText/blob/main/sample-Quert-with-HL.mp4
+https://github.com/shabeeth2/QueryusingText/assets/90326442/47f4bd7f-5714-4e35-8124-fdf5b8b6c6fd
 
 ### Database Connection
 
