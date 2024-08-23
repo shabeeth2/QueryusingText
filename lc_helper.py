@@ -18,7 +18,6 @@ from dotenv import load_dotenv
 load_dotenv()
 api_key = config.api_key
 
-GOOGLE_API_KEY="AIzaSyBdQ24sUKNu_jg1J5oCTj0sUyjuuTTmCAM"
 def get_few_shot_db_chain(db_uri):
     db_user = config.db_user
     db_password = config.db_password
